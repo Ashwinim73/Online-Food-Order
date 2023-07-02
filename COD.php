@@ -12,7 +12,7 @@ unset($_SESSION["cart"]);
 <html>
 
   <head>
-    <title> Cart | Le Cafe' </title>
+    <title> Cart |Tasty Tales  </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/COD.css">
@@ -140,7 +140,7 @@ else {
         </div>
         <br>
 
-<h2 class="text-center"> Thank you for Ordering at Le Cafe'! The ordering process is now complete.</h2>
+<h2 class="text-center"> Thank you for Ordering atTasty Tales ! The ordering process is now complete.</h2>
 
 <?php 
   $num1 = rand(100000,999999); 

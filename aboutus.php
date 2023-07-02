@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> About | Le Cafe' </title>
+    <title> About | Tasty Tales </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/aboutus.css">
@@ -49,7 +49,7 @@ session_start();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Le Cafe'</a>
+          <a class="navbar-brand" href="index.php">Tasty Tales </a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -125,7 +125,7 @@ else {
         
         <div class="tagline">It's not our <font color="red"><strong>work life</strong></font>, it's our <font color="green"><strong><em>life's work</em>.</strong></font></div>
         
-        <h3 style="color: red">About the food culture in Le cafe'</h3>
+        <h3 style="color: red">About the food culture in Tasty Tales </h3>
         <br>
       
         <div class="about-section">

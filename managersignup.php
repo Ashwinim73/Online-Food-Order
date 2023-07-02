@@ -1,7 +1,7 @@
 <html>
 
   <head>
-    <title> Manager Signup | Le Cafe' </title>
+    <title> Manager Signup | Tasty Tales </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/managersignup.css">
@@ -79,7 +79,7 @@
 
     <div class="container">
     <div class="jumbotron">
-     <h1>Hi Manager, <br> Welcome to <span class="edit"> Le Cafe' </span></h1>
+     <h1>Hi Manager, <br> Welcome to <span class="edit"> Tasty Tales </span></h1>
      <br>
    <p>Get started by creating your account</p>
     </div>

@@ -243,10 +243,10 @@ th {
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color:  rgba(233, 139, 39, 0.918) !important;
+    border-top-color:  #f56d33 (233, 139, 39, 0.918) !important;
   }
   .label {
-    border: 1px solid  rgba(233, 139, 39, 0.918);
+    border: 1px solid #f56d33 (233, 139, 39, 0.918);
   }
   .table {
     border-collapse: collapse !important;

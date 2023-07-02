@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> Home | Le Cafe' </title>
+    <title> Home | Tasty Tales </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
@@ -122,7 +122,7 @@ else {
 
     <div class="wide">
       	<div class="col-xs-5 line"><hr></div>
-        <div class="col-xs-2 logo"><img src="images/LogoImage.jpg"></div>
+        <div class="col-xs-2 logo"><img src="images/LogoImage.png"></div>
         <div class="col-xs-5 line"><hr></div>
         <div class="tagline">Good Food is Good Mood</div>
     </div>
