@@ -123,16 +123,16 @@ else {
 
     <div class="wide">
         
-        <div class="tagline">It's not our <font color="red"><strong>work life</strong></font>, it's our <font color="green"><strong><em>life's work</em>.</strong></font></div>
+        <div class="tagline"><font color="black">It's not our <font color="red"><strong>work life</strong></font>, it's our <font color="green"><strong><em><font color="black">life's work</em>.</strong></font></div>
         
         <h3 style="color: red">About the food culture in Tasty Tales </h3>
         <br>
       
         <div class="about-section">
-         <h3 style="color: grey">Order food & beverages online from restaurants near & around you. 
-        <h3 style="color:  grey">We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area,</h3>
-        <h3 style="color :grey"> and also from chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway, Faasos, Cafe Coffee Day, Taco Bell, and more. Exciting bit?</h3>
-        <h3 style="color :  grey"> We place no minimum order restrictions! Order in as little (or as much) as you'd like. We'll Swiggy it to you!</h3></h3>
+         <h3 style="color:  rgba(233, 139, 39, 0.918);">Order food & beverages online from restaurants near & around you. 
+        <h3 style="color:   rgba(233, 139, 39, 0.918);">We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area,</h3>
+        <h3 style="color : rgba(233, 139, 39, 0.918);"> and also from chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway, Faasos, Cafe Coffee Day, Taco Bell, and more. Exciting bit?</h3>
+        <h3 style="color :   rgba(233, 139, 39, 0.918);"> We place no minimum order restrictions! Order in as little (or as much) as you'd like. We'll Swiggy it to you!</h3></h3>
     </div>
     </div>
 
